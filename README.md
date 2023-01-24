@@ -12,6 +12,8 @@ This is **bold**
 def square(a):
   squared_value = a*a
   
+```
+
 ##Heading 2
 
 This is *italics*
