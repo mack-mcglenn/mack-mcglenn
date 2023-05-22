@@ -43,7 +43,7 @@ This README.md file is my GitHub profile
 <body>
     <p align="left">
         <a href="[LinkedIn](https://www.linkedin.com/in/mack-mcglenn/)" target="blank">
-        <img align="center" src="https://github.com/Jared-Wood135/tech-skill-icons/blob/main/linkedin-icon.png" alt="Mack McGlenn" height="40" width="40"/>
+        <img align="center" src="https://www.linkedin.com/in/mack-mcglenn/" alt="Mack McGlenn" height="40" width="40"/>
         </a>
     </p>
 </body>
