@@ -53,9 +53,8 @@ This README.md file is my GitHub profile
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="Mack McGlenn" height="40" width="40"/>
         </a>
         &nbsp;
-        <a href="https://mcglenncharity.wixsite.com/my-site![Free_Sample_By_Wix](https://github.com/mack-mcglenn/README/assets/122935207/4dd580cb-e4ff-454c-bbbc-96cbd15cc2dc)
-" target="blank">
-        <img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/stackoverflow.png" alt="Keith Stateson" height="40" width="40"/>
+        <a href="https://mcglenncharity.wixsite.com/my-site" target="blank">
+        <img align="center" src="https://github.com/mack-mcglenn/README/assets/122935207/4dd580cb-e4ff-454c-bbbc-96cbd15cc2dc" alt="Mack McGlenn" height="40" width="40"/>
         </a>
     </p>
 </body>
