@@ -2,6 +2,7 @@
 
 
 <!---
+Hi everyone.
 This README.md file is my GitHub profile
 -->
 
@@ -12,10 +13,10 @@ This README.md file is my GitHub profile
     <meta charset="UTF-8">
     <meta name="description" content="GitHub Profile README.MD">
     <meta name="keywords" content="GitHub, Profile, Bio, Snapshot, Summary, Readme">
-    <meta name="author" content="Mack McGlenn">
+    <meta name="author" content="Mack McGlenn, Information Nerd, Van Dweller">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <h1 align="center">
-        Hi, I'm Mack McGlenn <br> from North Carolina, USA 🇺🇸
+        Howdy, I'm Mack McGlenn <br> from North Carolina, USA 🇺🇸
     </h1>
 </head>
 
@@ -23,7 +24,7 @@ This README.md file is my GitHub profile
 <!--- Subtitle -->
 <head>
     <h3 align="center">
-         Data Science Student at Codeup
+        Analyst
     <br><br>
     </h3>
     
@@ -31,57 +32,77 @@ This README.md file is my GitHub profile
 
 
 <!--- Snapshot of Events -->
-- Data Science 20-Week program began on 17JAN2023, graduates 16JUN2023 and am ready to begin collaborating on projects
+- A Jr. Data Scientist and Army Veteran with a diverse background in technology, market research and analysis, logistics, automation, programming, entrepreneurship, and storytelling
+- I live in a 25-year old van called Bonnie 🚐
+- Served in the **U.S. Army** in Field Artillery, logistics, diesel mechanics, and ordnance handling & transportation
+- Served in the **North Carolina Army National Guard**
+- Pursuing Honors B.Sc. in **Political Science** from the university of North Carolina at Charlotte
+- Student in 20-week immersive data science boot camp at **CodeUp- San Antonio**
 - 📫 Reach me at **mcglenn.charity@gmail.com**
 
+<!--- My Websites -->
+<head>
+    <h3 align="left">
+        My Websites:
+    </h3>
+</head>
 
-<!--- Social Networks - Connect with me -->
+<body>
+    <p align="left">
+        <a href="[Portfolio](https://mcglenncharity.wixsite.com/my-site)" target="blank">
+        </a>
+      
+    </p>
+</body>
+
+
+<!--- Social Networks -->
 <head>
     <h3 align="left">Connect with me:</h3>
 </head>
 
 <body>
     <p align="left">
-        <a href="[LinkedIn](https://www.linkedin.com/in/mack-mcglenn/)" target="blank">
-        <img align="center" src="https://www.linkedin.com/in/mack-mcglenn/" alt="Mack McGlenn" height="40" width="40"/>
+        <a href="https://www.linkedin.com/in/keithstateson" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="Keith Stateson" height="40" width="40"/>
+        </a>
+        &nbsp;
+        <a href="https://youtu.be/rBRtNWWkKtQ" target="blank">
+        <img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/youtube.png" alt="Keith Stateson" height="40" width="40"/>
+        </a>
+        &nbsp;
+        <a href="https://twitter.com/enduringwriter" target="blank">
+        <img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/twitter.png" alt="Keith Stateson" height="40" width="40"/>
+        </a>
+        &nbsp;
+        <a href="https://stackoverflow.com/users/20429461/enduringwriter" target="blank">
+        <img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/stackoverflow.png" alt="Keith Stateson" height="40" width="40"/>
         </a>
     </p>
 </body>
 
 
-<!--- Technical Skills - Languages and Tools -->
+<!--- Technical Skills -->
 <head>
     <h3 align="left">Languages and Tools:</h3>
 </head>
 
 <body>
     <p align="left">
-        <a href="https://github.com/Jburch01" target="_blank">
-        <img src="https://github.com/Jared-Wood135/tech-skill-icons/blob/main/jupyternotebook-icon.png" alt="jupyternotebook" width="40" height="40"/>
+        <a href="https://github.com/enduringwriter" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
         </a>
         &nbsp;
-        <a href="https://github.com/Jared-Wood135" target="_blank">
-        <img src="https://github.com/Jared-Wood135/tech-skill-icons/blob/main/python-icon.png" alt="python" width="40" height="40"/>
+        <a href="https://github.com/enduringwriter" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="flask" width="40" height="40"/>
         </a>
         &nbsp;
-        <a href="https://github.com/Jburch01" target="_blank">
-        <img src="https://github.com/Jared-Wood135/tech-skill-icons/blob/main/vscode-icon.png" alt="vscode" width="40" height="40"/>
+        <a href="https://github.com/enduringwriter" target="_blank">
+        <img src="https://github.com/enduringwriter/enduringwriter/blob/6594379f38e3d47cb673324bd1d851cc91f6799a/icons_for_my_github_profile/pycharm.svg" alt="flask" width="40" height="40"/>
         </a>
         &nbsp;
-        <a href="https://github.com/Jburch01" target="_blank">
-        <img src="https://github.com/Jared-Wood135/tech-skill-icons/blob/main/numpy-icon.png" alt="numpy" width="40" height="40"/>
-        </a>
-        &nbsp;
-        <a href="https://github.com/Jburch01" target="_blank">
-        <img src="https://github.com/Jared-Wood135/tech-skill-icons/blob/main/pandas-icon.png" alt="pandas" width="40" height="40"/>
-        </a>
-        &nbsp;
-        <a href="https://github.com/Jburch01" target="_blank">
-        <img src="https://github.com/Jared-Wood135/tech-skill-icons/blob/main/scipy-icon.png" alt="scipy" width="40" height="40"/>
-        </a>
-        &nbsp;
-        <a href="https://github.com/Jburch01" target="_blank">
-        <img src="https://github.com/Jared-Wood135/tech-skill-icons/blob/main/sql-icon.png" alt="sql" width="40" height="40"/>
+        <a href="https://github.com/enduringwriter" target="_blank">
+        <img src="https://github.com/enduringwriter/enduringwriter/blob/c3c54696d525f7daa9158d5b1a6bdb4a7c73fed4/icons_for_my_github_profile/photoshop.svg" alt="photoshop" width="40" height="40"/>
         </a>
     </p>
     <br>
@@ -91,14 +112,17 @@ This README.md file is my GitHub profile
 <!--- GitHub Stats Streak Languages -->
 <body>
     <div>
-        <a href="https://github.com/mack-mcglenn" target="_blank">    
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mack-mcglenn" alt="Mack McGlenn"/>
+        <!--- GitHub Stats --->
+        <a href="https://github.com/enduringwriter" target="_blank">    
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enduringwriter" alt="enduringwriter"/>
         </a>
-        <a href="https://github.com/mack-mcglenn" target ="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mack-mcglenn" alt="Mack McGlenn"/>
+        <!--- GitHub Contributions and Streaks --->
+        <a href="https://github.com/enduringwriter" target ="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter" alt="enduringwriter"/>
         </a>
-        <a href="https://github.com/mack-mcglenn" target ="_blank">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mack-mcglenn&layout=compact" alt="Mack McGlenn" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mack-mcglenn" style="max-width: 100%;">
+        <!--- GitHub Most Used Languages --->
+        <a href="https://github.com/enduringwriter" target ="_blank">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enduringwriter" alt="enduringwriter" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enduringwriter" style="max-width: 100%;">
         </a>
     </div>
     <br>
@@ -108,20 +132,18 @@ This README.md file is my GitHub profile
 <!--- GitHub Repositories -->
 <body>
     <div>
-        <a href="https://github.com/mack-mcglenn/nic_cage_project" target ="_blank">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mack-mcglenn&repo=nic_cage_project" alt="Mack McGlenn"/>
+        <a href="https://github.com/enduringwriter" target ="_blank">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=enduringwriter&repo=fun_projects" alt="enduringwriter"/>
         </a>
-        <!--- Additional Repositories
-        <a href="https://github.com/mack-mcglenn" target ="_blank">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mack-mcglenn&repo=mack-mclgenn" alt="Mack McGlenn"/>
+        <a href="https://github.com/enduringwriter" target ="_blank">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=enduringwriter&repo=enduringwriter" alt="enduringwriter"/>
         </a>
-        --->
     </div>
     <br>
 </body>
 
 
 <!--- GitHub Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=mack-mcglenn)](https://github.com/mack-mcglenn/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=enduringwriter)](https://github.com/enduringwriter/github-profile-trophy)
 
 </html>
