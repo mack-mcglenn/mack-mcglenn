@@ -24,11 +24,12 @@ This README.md file is my GitHub profile
 <!--- Subtitle -->
 <head>
     <h3 align="center">
-        Analyst
+        Data Analyst
     <br><br>
     </h3>
     
 </head>
+
 
 
 <!--- Snapshot of Events -->
@@ -40,42 +41,20 @@ This README.md file is my GitHub profile
 - Student in 20-week immersive data science boot camp at **CodeUp- San Antonio**
 - 📫 Reach me at **mcglenn.charity@gmail.com**
 
-<!--- My Websites -->
-<head>
-    <h3 align="left">
-        My Websites:
-    </h3>
-</head>
 
-<body>
-    <p align="left">
-        <a href="[Portfolio](https://mcglenncharity.wixsite.com/my-site)" target="blank">
-        </a>
-      
-    </p>
-</body>
-
-
-<!--- Social Networks -->
+<!--- Where to Find Me -->
 <head>
     <h3 align="left">Connect with me:</h3>
 </head>
 
 <body>
     <p align="left">
-        <a href="https://www.linkedin.com/in/keithstateson" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="Keith Stateson" height="40" width="40"/>
+        <a href="https://www.linkedin.com/in/mack-mcglenn/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="Mack McGlenn" height="40" width="40"/>
         </a>
         &nbsp;
-        <a href="https://youtu.be/rBRtNWWkKtQ" target="blank">
-        <img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/youtube.png" alt="Keith Stateson" height="40" width="40"/>
-        </a>
-        &nbsp;
-        <a href="https://twitter.com/enduringwriter" target="blank">
-        <img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/twitter.png" alt="Keith Stateson" height="40" width="40"/>
-        </a>
-        &nbsp;
-        <a href="https://stackoverflow.com/users/20429461/enduringwriter" target="blank">
+        <a href="https://mcglenncharity.wixsite.com/my-site![Free_Sample_By_Wix](https://github.com/mack-mcglenn/README/assets/122935207/4dd580cb-e4ff-454c-bbbc-96cbd15cc2dc)
+" target="blank">
         <img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/stackoverflow.png" alt="Keith Stateson" height="40" width="40"/>
         </a>
     </p>
