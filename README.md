@@ -53,7 +53,7 @@ This README.md file is my GitHub profile
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="Mack McGlenn" height="40" width="40"/>
         </a>
         &nbsp;
-        <a href="https://mcglenncharity.wixsite.com/my-site" target="blank">
+        <a href="https://mcglenncharity.wixsite.com/my-site/" target="blank">
         <img align="center" src="https://github.com/mack-mcglenn/README/assets/122935207/4dd580cb-e4ff-454c-bbbc-96cbd15cc2dc" alt="Mack McGlenn" height="40" width="40"/>
         </a>
     </p>
