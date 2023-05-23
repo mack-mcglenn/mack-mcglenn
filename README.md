@@ -92,11 +92,11 @@ This README.md file is my GitHub profile
     <div>
         <!--- GitHub Stats --->
         <a href="" target="_blank">    
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enduringwriter" alt="mack-mcglenn"/>
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m" alt="mack-mcglenn"/>
         </a>
         <!--- GitHub Contributions and Streaks --->
         <a href="https://github.com/mack-mcglenn/" target ="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter" alt="mack-mcglenn"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mack-mcglenn/" alt="mack-mcglenn"/>
         </a>
         <!--- GitHub Most Used Languages --->
         <a href="https://github.com/mack-mcglenn/" target ="_blank">
