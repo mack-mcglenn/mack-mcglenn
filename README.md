@@ -50,11 +50,11 @@ This README.md file is my GitHub profile
 <body>
     <p align="left">
         <a href="https://www.linkedin.com/in/mack-mcglenn/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="Mack McGlenn" height="40" width="40"/>
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="Mack McGlenn" height="45" width="45"/>
         </a>
         &nbsp;
-        <a href="https://mcglenncharity.wixsite.com/my-site/" target="blank">
-        <img align="center" src="https://github.com/mack-mcglenn/README/assets/122935207/4dd580cb-e4ff-454c-bbbc-96cbd15cc2dc" alt="Mack McGlenn" height="40" width="40"/>
+        <a href="https://mcglenncharity.wixsite.com/my-site" target="blank">
+        <img align="center" src="https://github.com/mack-mcglenn/README/assets/122935207/4dd580cb-e4ff-454c-bbbc-96cbd15cc2dc" alt="portfolio" height="45" width="45"/>
         </a>
     </p>
 </body>
@@ -67,19 +67,19 @@ This README.md file is my GitHub profile
 
 <body>
     <p align="left">
-        <a href="https://github.com/enduringwriter" target="_blank">
+        <a href="https://github.com/mack-mcglenn/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
         </a>
         &nbsp;
-        <a href="https://github.com/enduringwriter" target="_blank">
+        <a href="https://github.com/mack-mcglenn/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="flask" width="40" height="40"/>
         </a>
         &nbsp;
-        <a href="https://github.com/enduringwriter" target="_blank">
+        <a href="https://github.com/mack-mcglenn/" target="_blank">
         <img src="https://github.com/enduringwriter/enduringwriter/blob/6594379f38e3d47cb673324bd1d851cc91f6799a/icons_for_my_github_profile/pycharm.svg" alt="flask" width="40" height="40"/>
         </a>
         &nbsp;
-        <a href="https://github.com/enduringwriter" target="_blank">
+        <a href="https://github.com/mack-mcglenn/" target="_blank">
         <img src="https://github.com/enduringwriter/enduringwriter/blob/c3c54696d525f7daa9158d5b1a6bdb4a7c73fed4/icons_for_my_github_profile/photoshop.svg" alt="photoshop" width="40" height="40"/>
         </a>
     </p>
@@ -91,16 +91,16 @@ This README.md file is my GitHub profile
 <body>
     <div>
         <!--- GitHub Stats --->
-        <a href="https://github.com/enduringwriter" target="_blank">    
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enduringwriter" alt="enduringwriter"/>
+        <a href="" target="_blank">    
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enduringwriter" alt="mack-mcglenn"/>
         </a>
         <!--- GitHub Contributions and Streaks --->
-        <a href="https://github.com/enduringwriter" target ="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter" alt="enduringwriter"/>
+        <a href="https://github.com/mack-mcglenn/" target ="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter" alt="mack-mcglenn"/>
         </a>
         <!--- GitHub Most Used Languages --->
-        <a href="https://github.com/enduringwriter" target ="_blank">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enduringwriter" alt="enduringwriter" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enduringwriter" style="max-width: 100%;">
+        <a href="https://github.com/mack-mcglenn/" target ="_blank">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mack-mcglenn" alt="mack-mcglenn" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mack-mcglenn" style="max-width: 100%;">
         </a>
     </div>
     <br>
@@ -110,10 +110,10 @@ This README.md file is my GitHub profile
 <!--- GitHub Repositories -->
 <body>
     <div>
-        <a href="https://github.com/enduringwriter" target ="_blank">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=enduringwriter&repo=fun_projects" alt="enduringwriter"/>
+        <a href="https://github.com/mack-mcglenn" target ="_blank">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mack-mcglenn&repo=fun_projects" alt="mack-mcglenn"/>
         </a>
-        <a href="https://github.com/enduringwriter" target ="_blank">
+        <a href="https://github.com/mack-mcglenn" target ="_blank">
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=enduringwriter&repo=enduringwriter" alt="enduringwriter"/>
         </a>
     </div>
