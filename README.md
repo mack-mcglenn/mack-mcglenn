@@ -92,7 +92,7 @@ This README.md file is my GitHub profile
     <div>
         <!--- GitHub Stats --->
         <a href="" target="_blank">    
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m" alt="mack-mcglenn"/>
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=" alt="mack-mcglenn"/>
         </a>
         <!--- GitHub Contributions and Streaks --->
         <a href="https://github.com/mack-mcglenn/" target ="_blank">
@@ -100,7 +100,7 @@ This README.md file is my GitHub profile
         </a>
         <!--- GitHub Most Used Languages --->
         <a href="https://github.com/mack-mcglenn/" target ="_blank">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mack-mcglenn" alt="mack-mcglenn" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mack-mcglenn" style="max-width: 100%;">
+        <img src="[![Mack's GitHub stats](https://github-readme-stats.vercel.app/api?username=mack-mcglenn)](https://github.com/mack-mcglenn/github-readme-stats)" alt="mack-mcglenn"  style="max-width: 100%;">
         </a>
     </div>
     <br>
@@ -122,6 +122,6 @@ This README.md file is my GitHub profile
 
 
 <!--- GitHub Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=enduringwriter)](https://github.com/enduringwriter/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mack-mcglenn)](https://github.com/mack-mcglenn/github-profile-trophy)
 
 </html>
