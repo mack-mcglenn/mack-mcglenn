@@ -5,9 +5,8 @@
 Hi everyone.
 This README.md file is my GitHub profile
 -->
-
-
 <!--- Title and metadata -->
+![MM Logo](https://github.com/mack-mcglenn/README/assets/122935207/5ee501ff-a97a-4ec9-86cf-64ec5ace8b17)
 <html>
 <head>
     <meta charset="UTF-8">
@@ -24,7 +23,7 @@ This README.md file is my GitHub profile
 <!--- Subtitle -->
 <head>
     <h3 align="center">
-        Data Analyst
+        Data Scientist
     <br><br>
     </h3>
     
@@ -33,11 +32,11 @@ This README.md file is my GitHub profile
 
 
 <!--- Snapshot of Events -->
-- A Jr. Data Scientist and Army Veteran with a diverse background in technology, market research and analysis, logistics, automation, programming, entrepreneurship, and storytelling
+- I'm a Jr. Data Scientist and Army Veteran with a diverse background in technology, market research and analysis, logistics, automation, programming, entrepreneurship, and storytelling
 - I live in a 25-year old van called Bonnie 🚐
 - Served in the **U.S. Army** in Field Artillery, logistics, diesel mechanics, and ordnance handling & transportation
 - Served in the **North Carolina Army National Guard**
-- Pursuing Honors B.Sc. in **Political Science** from the university of North Carolina at Charlotte
+- Pursuing Honors B.Sc. in **Political Science** from the University of North Carolina at Charlotte
 - Student in 20-week immersive data science boot camp at **CodeUp- San Antonio**
 - 📫 Reach me at **mcglenn.charity@gmail.com**
 
@@ -53,8 +52,8 @@ This README.md file is my GitHub profile
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="Mack McGlenn" height="45" width="45"/>
         </a>
         &nbsp;
-        <a href="https://mcglenncharity.wixsite.com/my-site" target="blank">
-        <img align="center" src="https://github.com/mack-mcglenn/README/assets/122935207/4dd580cb-e4ff-454c-bbbc-96cbd15cc2dc" alt="portfolio" height="45" width="45"/>
+        <a href= "https://mcglenncharity.wixsite.com/my-site">
+        <img align= "center" img src= [![Portfolio](https://github.com/mack-mcglenn/README/assets/122935207/8ab73dbc-e74c-4178-85b8-364079edb3e8) alt="My Site" style="object-fit:scale-contain height="45" width="45"/>
         </a>
     </p>
 </body>
@@ -84,7 +83,7 @@ This README.md file is my GitHub profile
         </a>
     </p>
     <br>
-</body>
+</body> 
 
 
 <!--- GitHub Stats Streak Languages -->
@@ -92,15 +91,15 @@ This README.md file is my GitHub profile
     <div>
         <!--- GitHub Stats --->
         <a href="" target="_blank">    
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=" alt="mack-mcglenn"/>
+        <img src="[![Mack's GitHub stats](https://github-readme-stats.vercel.app/api?username=mack-mcglenn)](https://github.com/mack-mcglenn/github-readme-stats)"/>
         </a>
         <!--- GitHub Contributions and Streaks --->
         <a href="https://github.com/mack-mcglenn/" target ="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mack-mcglenn/" alt="mack-mcglenn"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mack-mcglenn/"/>
         </a>
         <!--- GitHub Most Used Languages --->
         <a href="https://github.com/mack-mcglenn/" target ="_blank">
-        <img src="[![Mack's GitHub stats](https://github-readme-stats.vercel.app/api?username=mack-mcglenn)](https://github.com/mack-mcglenn/github-readme-stats)" alt="mack-mcglenn"  style="max-width: 100%;">
+        <img src="[![Mack's GitHub stats](https://github-readme-stats.vercel.app/api?username=mack-mcglenn)](https://github.com/mack-mcglenn/github-readme-stats)" style="max-width: 100%;">
         </a>
     </div>
     <br>
@@ -108,17 +107,17 @@ This README.md file is my GitHub profile
 
 
 <!--- GitHub Repositories -->
-<body>
-    <div>
-        <a href="https://github.com/mack-mcglenn" target ="_blank">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mack-mcglenn&repo=fun_projects" alt="mack-mcglenn"/>
-        </a>
-        <a href="https://github.com/mack-mcglenn" target ="_blank">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=enduringwriter&repo=enduringwriter" alt="enduringwriter"/>
-        </a>
-    </div>
-    <br>
-</body>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=mack-mcglenn&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=mack-mcglenn&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=mack-mcglenn&show_icons=true" />
+</picture>
 
 
 <!--- GitHub Trophies -->
